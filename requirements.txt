@@ -1,7 +1,7 @@
 Django==1.7.4
 Fabric==1.10.0
 PAM==0.4.2
-Pillow==2.6.1
+Pillow==6.2.0
 Theano==0.6.0
 Twisted-Core==14.0.2
 Twisted-Web==14.0.2
