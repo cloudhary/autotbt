@@ -22,7 +22,7 @@ duplicity==0.6.23
 ecdsa==0.11
 facebook-sdk==0.4.0
 html5lib==0.999
-httplib2==0.9
+httplib2==0.18.0
 idna==0.9
 lockfile==0.8
 lxml==3.3.6
